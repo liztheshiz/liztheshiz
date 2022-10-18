@@ -6,5 +6,5 @@ Currently working on general improvements to my existing projects, and planning 
 
 Also seeking job opportunities for junior frontend developers!
 
-[Portfolio Website &#8594;](https://liztheshiz.github.io/portfolio-website/)
-[LinkedIn &#8594;](https://www.linkedin.com/in/its-liz/)
+<a href="https://liztheshiz.github.io/portfolio-website/" target="_blank">Portfolio Website &#8594;</a>
+<a href="https://www.linkedin.com/in/its-liz/" target="_blank">LinkedIn &#8594;</a>
